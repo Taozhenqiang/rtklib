@@ -1,5 +1,5 @@
 #include "src/rtklib.h"
-
+////////////
 void main()
 {
 	//char exsats[1024]=EXBDS_2;
