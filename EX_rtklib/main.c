@@ -75,5 +75,5 @@ void main()
 	Base = "";
    	postpos(ts, te, 0, 0, &opt, &sopt, &fopt, infile, 3, ofile, "", "");
 	traceclose();
-	//rtklib≤‚ ‘
+	//rtklib≤‚ ‘ -by Tzq_aust
 }
