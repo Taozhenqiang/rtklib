@@ -9,7 +9,7 @@ void main()
 	gtime_t ts = { 0 }, te = { 0 };
 	prcopt_t opt = prcopt_default;
 	solopt_t sopt = solopt_default;
-	filopt_t fopt = {""};
+	filopt_t fopt = {""};//jsfkll
 		//{""},
 		//{"D:\\data\\tbl\\igs14.atx"},
 		////{""},
