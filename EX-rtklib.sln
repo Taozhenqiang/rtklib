@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EX-rtklib", "EX_rtklib\eg_rtklib.vcxproj", "{951C0207-A4F4-40BF-9957-EBF7DBA3ADB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951C0207-A4F4-40BF-9957-EBF7DBA3ADB6}.Debug|x64.ActiveCfg = Debug|x64
+		{951C0207-A4F4-40BF-9957-EBF7DBA3ADB6}.Debug|x64.Build.0 = Debug|x64
+		{951C0207-A4F4-40BF-9957-EBF7DBA3ADB6}.Debug|x86.ActiveCfg = Debug|Win32
+		{951C0207-A4F4-40BF-9957-EBF7DBA3ADB6}.Debug|x86.Build.0 = Debug|Win32
+		{951C0207-A4F4-40BF-9957-EBF7DBA3ADB6}.Release|x64.ActiveCfg = Release|x64
+		{951C0207-A4F4-40BF-9957-EBF7DBA3ADB6}.Release|x64.Build.0 = Release|x64
+		{951C0207-A4F4-40BF-9957-EBF7DBA3ADB6}.Release|x86.ActiveCfg = Release|Win32
+		{951C0207-A4F4-40BF-9957-EBF7DBA3ADB6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C206425-B78C-401A-B4FB-609AD7584288}
+	EndGlobalSection
+EndGlobal
