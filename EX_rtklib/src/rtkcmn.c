@@ -155,7 +155,7 @@
 #include <sys/types.h>
 #endif
 #include "rtklib.h"
-
+//�汾һ
 /* constants -----------------------------------------------------------------*/
 
 #define POLYCRC32   0xEDB88320u /* CRC32 polynomial */

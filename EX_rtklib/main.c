@@ -75,5 +75,5 @@ void main()
 	Base = "";
    	postpos(ts, te, 0, 0, &opt, &sopt, &fopt, infile, 3, ofile, "", "");
 	traceclose();
-	//rtklib测试 -by Tzq_aust
+	//版本1
 }
