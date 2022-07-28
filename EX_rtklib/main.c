@@ -68,7 +68,7 @@ void main()
 	//sopt.outvel = 1;
 	//sopt.sstat = 2;
 	//sopt.trace = 2;
-	tracelevel(2);
+	tracelevel(2);//
 	//excludesats(exsats, &opt);
 	
 	Rovers = "kiru krgg pert";
