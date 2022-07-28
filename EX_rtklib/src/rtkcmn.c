@@ -156,6 +156,7 @@
 #endif
 #include "rtklib.h"
 //版本一
+//版本二
 /* constants -----------------------------------------------------------------*/
 
 #define POLYCRC32   0xEDB88320u /* CRC32 polynomial */
