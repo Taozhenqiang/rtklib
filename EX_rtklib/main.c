@@ -9,7 +9,7 @@ void main()
 	gtime_t ts = { 0 }, te = { 0 };
 	prcopt_t opt = prcopt_default;
 	solopt_t sopt = solopt_default;
-	filopt_t fopt = {""};//jsfkll
+	filopt_t fopt = {""};
 		//{""},
 		//{"D:\\data\\tbl\\igs14.atx"},
 		////{""},
@@ -75,4 +75,5 @@ void main()
 	Base = "";
    	postpos(ts, te, 0, 0, &opt, &sopt, &fopt, infile, 3, ofile, "", "");
 	traceclose();
+	//rtklib≤‚ ‘
 }
