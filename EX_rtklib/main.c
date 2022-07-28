@@ -76,5 +76,4 @@ void main()
    	postpos(ts, te, 0, 0, &opt, &sopt, &fopt, infile, 3, ofile, "", "");
 	traceclose();
 	//版本1
-	//版本2
 }
